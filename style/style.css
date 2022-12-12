@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color:aliceblue;
+}
+input.button {
+    background-color: aqua;
+    width: 200px;
+    height: 80px;
+
+}
+footer{
+    color: blueviolet;
+    position: relative;
+    bottom:0;
+    width:100%;
+    height: 10%;   /* Height of the footer */
+    background:#6cf;
+}
